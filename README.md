@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shraddha2685/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shraddha2685/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shraddha2685/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
 ## Math
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shraddha2685/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shraddha2685/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shraddha2685/DSA/tree/master/0414-third-maximum-number) |
@@ -43,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Shraddha2685/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
