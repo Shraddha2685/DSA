@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shraddha2685/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Shraddha2685/DSA/tree/master/0414-third-maximum-number) |
+| [0724-find-pivot-index](https://github.com/Shraddha2685/DSA/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Shraddha2685/DSA/tree/master/0383-ransom-note) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Shraddha2685/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
