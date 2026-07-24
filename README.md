@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shraddha2685/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Shraddha2685/DSA/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shraddha2685/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Shraddha2685/DSA/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Shraddha2685/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shraddha2685/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shraddha2685/DSA/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shraddha2685/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
