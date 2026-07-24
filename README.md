@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shraddha2685/DSA/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shraddha2685/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Shraddha2685/DSA/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Shraddha2685/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shraddha2685/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Shraddha2685/DSA/tree/master/0414-third-maximum-number) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shraddha2685/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Shraddha2685/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shraddha2685/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shraddha2685/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shraddha2685/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shraddha2685/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shraddha2685/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shraddha2685/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Shraddha2685/DSA/tree/master/0383-ransom-note) |
 ## Prefix Sum
 |  |
@@ -69,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Shraddha2685/DSA/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shraddha2685/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
