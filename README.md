@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Shraddha2685/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shraddha2685/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Shraddha2685/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Shraddha2685/DSA/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
