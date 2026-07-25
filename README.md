@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shraddha2685/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shraddha2685/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Shraddha2685/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shraddha2685/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shraddha2685/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Shraddha2685/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Counting
 |  |
 | ------- |
