@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shraddha2685/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shraddha2685/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
+| [0796-rotate-string](https://github.com/Shraddha2685/DSA/tree/master/0796-rotate-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shraddha2685/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Counting
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shraddha2685/DSA/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Shraddha2685/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
