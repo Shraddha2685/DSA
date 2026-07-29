@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shraddha2685/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shraddha2685/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Shraddha2685/DSA/tree/master/0724-find-pivot-index) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shraddha2685/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/Shraddha2685/DSA/tree/master/0796-rotate-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shraddha2685/DSA/tree/master/1796-second-largest-digit-in-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shraddha2685/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
