@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Shraddha2685/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shraddha2685/DSA/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Shraddha2685/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shraddha2685/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
 ## String
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shraddha2685/DSA/tree/master/0796-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shraddha2685/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
