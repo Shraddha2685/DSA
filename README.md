@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shraddha2685/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Shraddha2685/DSA/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shraddha2685/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shraddha2685/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shraddha2685/DSA/tree/master/0152-maximum-product-subarray) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shraddha2685/DSA/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Shraddha2685/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shraddha2685/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Shraddha2685/DSA/tree/master/0383-ransom-note) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Shraddha2685/DSA/tree/master/0231-power-of-two) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shraddha2685/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
