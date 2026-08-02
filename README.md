@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shraddha2685/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shraddha2685/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Shraddha2685/DSA/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/Shraddha2685/DSA/tree/master/0877-stone-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shraddha2685/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shraddha2685/DSA/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Shraddha2685/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/Shraddha2685/DSA/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shraddha2685/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shraddha2685/DSA/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/Shraddha2685/DSA/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shraddha2685/DSA/tree/master/0014-longest-common-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shraddha2685/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
