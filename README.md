@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shraddha2685/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shraddha2685/DSA/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shraddha2685/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/Shraddha2685/DSA/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shraddha2685/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shraddha2685/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shraddha2685/DSA/tree/master/0152-maximum-product-subarray) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Shraddha2685/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shraddha2685/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Shraddha2685/DSA/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Shraddha2685/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Shraddha2685/DSA/tree/master/0877-stone-game) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shraddha2685/DSA/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Shraddha2685/DSA/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
