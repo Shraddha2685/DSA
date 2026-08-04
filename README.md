@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shraddha2685/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shraddha2685/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shraddha2685/DSA/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Shraddha2685/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Shraddha2685/DSA/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Shraddha2685/DSA/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Shraddha2685/DSA/tree/master/0877-stone-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shraddha2685/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shraddha2685/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Shraddha2685/DSA/tree/master/0645-set-mismatch) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Shraddha2685/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Math
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shraddha2685/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shraddha2685/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Shraddha2685/DSA/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shraddha2685/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shraddha2685/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shraddha2685/DSA/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Shraddha2685/DSA/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Shraddha2685/DSA/tree/master/0832-flipping-an-image) |
 ## String
 |  |
