@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Shraddha2685/DSA/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Shraddha2685/DSA/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Shraddha2685/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Shraddha2685/DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Shraddha2685/DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shraddha2685/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shraddha2685/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -144,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Shraddha2685/DSA/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/Shraddha2685/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Shraddha2685/DSA/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Shraddha2685/DSA/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Shraddha2685/DSA/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
