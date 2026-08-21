@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shraddha2685/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shraddha2685/DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Shraddha2685/DSA/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Shraddha2685/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shraddha2685/DSA/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Shraddha2685/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shraddha2685/DSA/tree/master/0867-transpose-matrix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shraddha2685/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/Shraddha2685/DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Shraddha2685/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
